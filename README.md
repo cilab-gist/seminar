@@ -8,3 +8,4 @@
  
    (ex. 01_의진_Data-Efficient_Hierarchical_Reinforcement_Learning.md)
 
+ * 아직 시작 초기 단계이니 언제든지 바뀔 수 있는 부분이라, 부담없이 작성해보는걸로 합시다.
